@@ -1,0 +1,18 @@
+.accent-font {
+	font-family: 'Alegreya', serif;
+}
+
+.obit p {
+	color: #2a2a2a;
+	font-size: 17pt;
+	font-family: 'Alegreya', serif;
+}
+
+.footer-sal {
+	height: 35px;
+	background-color: rgb(232, 160, 160);
+}
+
+body {
+	background-color: rgb(232, 160, 160, 0.08);
+}
