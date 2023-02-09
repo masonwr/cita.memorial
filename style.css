@@ -10,8 +10,14 @@
 
 .footer-bar {
 	height: 10px;
-	background-color: rgb(232, 160, 160);
+	background-color: rgb(112, 31, 35, 0.7)
 }
+
+.head-bar {
+	height: 5px;
+	background-color: rgb(232, 160, 160, 0.8);
+}
+
 
 body {
 	background-color: rgb(232, 160, 160, 0.08);
